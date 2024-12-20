@@ -1,0 +1,21 @@
+Weld:
+  Iou: 0.9759
+  Dice(f1): 0.9877
+  Accuracy: 0.9759
+  Precision: 0.9876
+  Recall: 0.9878
+
+Unpretreated:
+  Iou: 0.9913
+  Dice(f1): 0.9956
+  Accuracy: 0.9913
+  Precision: 0.9964
+  Recall: 0.9949
+
+Average:
+  Iou: 0.9836
+  Dice(f1): 0.9917
+  Accuracy: 0.9836
+  Precision: 0.9920
+  Recall: 0.9914
+
